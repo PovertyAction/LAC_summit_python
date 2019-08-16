@@ -1,19 +1,21 @@
 # Materials for Natural Language Processing Lab
 ## IPA's LAC Data and Research Summit
 
-### Isabel Onate 
+### Isabel Oñate - August 2019
 
 ### This repository is located at https://github.com/PovertyAction/LAC_summit_python/edit/master/2_NLP_lab.
 
 ### Description
 
-NLP (Natural Language Processing) is a set of techniques for approaching text problems. In this lab we will go over an example of how to use text data to make predictions using a simple bag of words model. 
+This repository contains the files needed for the  Natural Language Processing (NLP) Lab. NLP (Natural Language Processing) is a set of techniques for approaching text problems. In this lab we will go over an example of how to use text data to make predictions using a simple bag of words model. 
 
 We will perform sentiment analysis, to identify and extract subjective information from movie reviews and categorize them inot positive and negative reviews.
 
 ### Materials in this repository
-
-
+1) NLP lab session.ipynb - Jupyter notebook with code for the excercise
+2) Slides - (ADD NAME) - Presentation slides for session
+3) Data - (ADD NAME) - Data to run the code
+4) Readme - this file
 
 ### Running the Jupyter notebooks during the workshop
 You will be running the Python notebooks on a server, so you do not need to install any software. Your username
@@ -36,5 +38,5 @@ git, python and Jupyther notebooks before doing this. Below are the required pac
  * matplotlib.pyplot - plt
  
  ### References 
- 
+ ADD
  
