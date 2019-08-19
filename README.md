@@ -1,7 +1,8 @@
 # Python materials
 ## IPA's LAC Data and Research Summit
 
-### Isabel Oñate - August 2019
+### Isabel Oñate - isabel.onate@northwestern.edu
+August 2019
 
 This repository is located at https://github.com/PovertyAction/LAC_summit_python/edit/master/.
 
