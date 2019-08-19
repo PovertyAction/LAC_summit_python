@@ -1,7 +1,8 @@
 # Resources
 ## IPA's LAC Data and Research Summit
 
-### Isabel Oñate - August 2019 - isabel.onate@northwestern.edu
+### Isabel Oñate - isabel.onate@northwestern.edu
+August 2019
 
 ### ML Literature
 
