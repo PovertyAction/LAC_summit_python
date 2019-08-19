@@ -12,6 +12,8 @@ This repository contains the files needed for the  Natural Language Processing (
 
 We will perform sentiment analysis, to identify and extract subjective information from movie reviews and categorize them inot positive and negative reviews.
 
+*_This exercise is based on this <a href="https://www.kaggle.com/c/word2vec-nlp-tutorial/overview">kaggle tutorial</a> and modified to fit the objectives of the session._
+
 ### Materials in this repository
 1) NLP lab session.ipynb - Jupyter notebook with code for the excercise
 2) Slides - (ADD NAME) - Presentation slides for session
