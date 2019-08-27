@@ -16,8 +16,7 @@ We will perform sentiment analysis, to identify and extract subjective informati
 
 ### Materials in this repository
 1) NLP lab session.ipynb - Jupyter notebook with code for the excercise
-2) Slides - (ADD NAME) - Presentation slides for session
-4) Readme - this file
+2) Readme - this file
 
 ### Data
 The data used for this session is saved in Drobox. It can be found with <a href="https://www.dropbox.com/s/qk7gc7ek68z5o7k/labeledData.tsv?dl=0">this link</a>. The data will be directly loaded into Python with the code provided and does not need to be downloaded for the session.
