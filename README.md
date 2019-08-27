@@ -12,8 +12,8 @@ This repository contains the materials needed for the sessions: 1) Introduction 
 ### Materials in this repository
 1) Code and Readme for Introduction to Python session 
 2) Code and Readme Natural Language Processing Lab
-3) Intructions for installing Python
-4) Aditional resources
+3)	Instructions for installing Python
+4)	Additional resources
 
 ### Running the Jupyter notebooks during the workshop
 You will be running the Python notebooks on a server, so you do not need to install any software. Your username
