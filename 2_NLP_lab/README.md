@@ -8,13 +8,13 @@ August 2019
 
 ### Description
 
-This repository contains the files needed for the  Natural Language Processing (NLP) Lab. NLP (Natural Language Processing) is a set of techniques for approaching text problems. In this lab we will go over an example of how to use text data to make predictions using a simple bag of words model. 
+This folder contains the files needed for the  Natural Language Processing (NLP) Lab. NLP (Natural Language Processing) is a set of techniques for approaching text problems. In this lab we will go over an example of how to use text data to make predictions using a simple bag of words model. 
 
 We will perform sentiment analysis, to identify and extract subjective information from movie reviews and categorize them inot positive and negative reviews.
 
 *_This exercise is based on this <a href="https://www.kaggle.com/c/word2vec-nlp-tutorial/overview">kaggle tutorial</a> and modified to fit the objectives of the session._
 
-### Materials in this repository
+### Materials in this folder
 1) NLP lab session.ipynb - Jupyter notebook with code for the excercise
 2) Readme - this file
 
