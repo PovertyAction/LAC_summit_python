@@ -19,7 +19,7 @@ This repository contains the materials needed for the sessions: 1) Introduction 
 You will be running the Python notebooks on a server, so you do not need to install any software. Your username
 and password will be provided at the beginning of the session.
 
-### Running the Jupyter notebooks in you computer
+### Running the Jupyter notebooks in your computer
 To run the Jupyter notebooks on your own machine, clone the repository using git. You will need to install
 git, python and Jupyther notebooks before doing this. Below are the required packages to run the code.
 
